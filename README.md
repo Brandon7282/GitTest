@@ -9,7 +9,7 @@ From the large number of classes to choose from, one will surely match up to you
 Classes | Traits 
 ------- | ------
 Buccaneer | Being lazy in general accompanied with a low IQ
-Dual Blade | Being percise in details accompanied with high IQ
+Dual Blade | Being percise in details accompanied with a high IQ
 
 [Link](url) and ![Image](src)
 
