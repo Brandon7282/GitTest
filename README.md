@@ -16,6 +16,12 @@ Dual Blade | Being percise in details accompanied with a high IQ
 
 
 
+
+
+
+
 ### THIS POST WAS MADE BY DUAL BLADE GANG GET JEBAITED
 
+![](maxresdefault.jpg)
 
+In all honesty just choose a class you like 4Head
