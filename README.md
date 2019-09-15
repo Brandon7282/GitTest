@@ -7,6 +7,7 @@ From the large number of classes to choose from, one will surely match up to you
 ### Classes
 
 1. Buccaneer - Are you Lazy? If so, the Buccaneer is the class for you! 5th job enables the class to jump around map killing everything with its overpowered AOE skill
+![]https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjKsY6_ptPkAhUFvp4KHSDUAXcQjRx6BAgBEAQ&url=https%3A%2F%2Fmaplestory.fandom.com%2Fwiki%2FPirate&psig=AOvVaw0EfX_awTRmoQ3wDLoVT8Yh&ust=1568653128982334
 
 
 
