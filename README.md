@@ -16,6 +16,6 @@ Dual Blade | Being percise in details accompanied with a high IQ
 
 
 
-### THIS POST WAS MADE BY DUAL BLADE GANGE GET JEBAITED
+### THIS POST WAS MADE BY DUAL BLADE GANG GET JEBAITED
 
 
