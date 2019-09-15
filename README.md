@@ -1,30 +1,16 @@
-## Welcome to GitHub Pages
+## Having trouble picking a Maplestory Class?
 
-You can use the [editor on GitHub](https://github.com/Brandon7282/GitTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+No worries because with this simple personality test, you are able to choose which class fits you the best!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From the large number of classes to choose from, one will surely match up to your own play stlye, and personality traits.
 
-### Markdown
+### Classes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Buccaneer - Are you Lazy? If so, the Buccaneer is the class for you! 5th job enables the class to jump around map killing everything with its overpowered AOE skill
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
