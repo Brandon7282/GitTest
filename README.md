@@ -11,15 +11,11 @@ Classes | Traits
 Buccaneer | Being lazy in general accompanied with a low IQ
 Dual Blade | Being percise in details accompanied with a high IQ
 
-![Bucaneer](2f4e1a41217748cea51b7570e048d274.png)
+<img src="Pirate_Male.png" width="150" > < <img src="Dual_Blade_intro.png" width="200" >
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brandon7282/GitTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### THIS POST WAS MADE BY DUAL BLADE GANGE GET JEBAITED
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
