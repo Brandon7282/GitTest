@@ -4,12 +4,12 @@ No worries because with this simple personality test, you are able to choose whi
 
 From the large number of classes to choose from, one will surely match up to your own play stlye, and personality traits.
 
-### Classes
+### MapleStory Classes
 
-1. Buccaneer - Are you Lazy? If so, the Buccaneer is the class for you! 5th job enables the class to jump around map killing everything with its overpowered AOE skill
-![]https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjKsY6_ptPkAhUFvp4KHSDUAXcQjRx6BAgBEAQ&url=https%3A%2F%2Fmaplestory.fandom.com%2Fwiki%2FPirate&psig=AOvVaw0EfX_awTRmoQ3wDLoVT8Yh&ust=1568653128982334
-
-
+Classes | Traits 
+------- | ------
+Buccaneer | Being Lazy in general
+Dual Blade | You want to be an MC of an anime
 
 [Link](url) and ![Image](src)
 
