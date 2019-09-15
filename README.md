@@ -8,8 +8,8 @@ From the large number of classes to choose from, one will surely match up to you
 
 Classes | Traits 
 ------- | ------
-Buccaneer | Being Lazy in general
-Dual Blade | You want to be an MC of an anime
+Buccaneer | Being lazy in general accompanied with a low IQ
+Dual Blade | Being percise in details accompanied with high IQ
 
 [Link](url) and ![Image](src)
 
