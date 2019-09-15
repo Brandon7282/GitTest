@@ -11,9 +11,8 @@ Classes | Traits
 Buccaneer | Being lazy in general accompanied with a low IQ
 Dual Blade | Being percise in details accompanied with a high IQ
 
-      ![](images/thief-02.png)
+![](2f4e1a41217748cea51b7570e048d274.png)
 
-[Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
